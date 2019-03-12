@@ -29,6 +29,5 @@
     "jest": "^24.4.0",
     "jest-enzyme": "^7.0.2",
     "react-test-renderer": "^16.8.4"
-
   }
 }
