@@ -8,7 +8,7 @@ const tempArr = [
     fName: "Pera",
     lName: "Peric",
     email: "pera@gmail.com",
-    age: false,
+    age: 24,
     onlineStatus: true
   }
 ];
