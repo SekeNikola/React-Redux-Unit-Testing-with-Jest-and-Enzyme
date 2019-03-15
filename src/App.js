@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import Header from "./components/header/index";
 import Headline from "./components/headline/index";
+import Button from "./components/button/index";
 import "./app.scss";
 
 const tempArr = [
@@ -24,6 +25,7 @@ class App extends Component {
             desc="Click the button to render posts"
             tempArr={tempArr}
           />
+          <Button />
         </div>
       </div>
     );
